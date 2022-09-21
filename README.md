@@ -1,5 +1,5 @@
 # micPDP
-This repository contains bash and perl scripts to identifiy micropeptides from genome wide multiple species alignments. Tools in this package have been used in
+This repository contains a tool to identifiy micropeptides from genome wide multiple species alignments. The micpdp tool has been used in
 
 [Mackowiak at al, Extensive identification and analysis of conserved small ORFs in animals. Genome Biology 2015](https://pubmed.ncbi.nlm.nih.gov/26364619)
 
