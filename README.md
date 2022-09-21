@@ -26,4 +26,4 @@ Default scoring of micpdp is done by using Ka-Ks ratios. As an alternative scori
 ```bash
 micpdp.pl -m chrI/chrI.maf.stitched.cmpl  -c chrI -l 27 -s species_ce10_reordered -t project_cel -b chrI_refseq.bed -T 0.5 -S  -F stitched_mafs
 ```
-Would identify micropeptides in transcripts of chromosome I with a minimum length of 9 AA (27 nt => -l 27) and keeps sequences with less than 50% of gaps.
+This will identify micropeptides in transcripts of chromosome I with a minimum length of 9 AA (27 nt => -l 27) and keeps sequences with less than 50% of gaps.
