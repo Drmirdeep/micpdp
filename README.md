@@ -6,7 +6,7 @@ This repository contains a tool to identifiy micropeptides from genome wide mult
 [Bazzini et al, Identification of small ORFs in vertebrates using ribosome footprinting and evolutionary conservation. Embo J. 2014](https://pubmed.ncbi.nlm.nih.gov/24705786/)
 
 ## Authorship and legal information
-The scripts, in the form provided in this archive, were implemented by Sebastian Mackowiak, being a PhD student at this time in the lab of Nikolaus Rajewsky at the [Max-Delbrueck-Center for Molecular Biology](https://www.mdc-berlin.de/1151037/en/research/research_teams/systems_biology_of_gene_regulatory_elements). The code is hereby released is licensed under a
+The scripts, in the form provided in this archive, were implemented by Sebastian Mackowiak, being a PhD student at this time in the lab of Nikolaus Rajewsky at the [Max-Delbrueck-Center for Molecular Biology](https://www.mdc-berlin.de/1151037/en/research/research_teams/systems_biology_of_gene_regulatory_elements). The code is hereby released under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE).
 You should have received a copy of the license along with this
 work. If not, see [http://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
